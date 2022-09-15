@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-release-3"
+  site-url: "https://tylere.github.io/test-release-3"
+  description: "Test out releasing with nbdev."
+  repo-branch: master
+  repo-url: "https://github.com/tylere/test-release-3"
